@@ -1,8 +1,8 @@
-#Challange Name :  lets-go
+# Challange Name :  lets-go
 
-##Category: OSINT
+## Category: OSINT 
 
-##Description: 
+## Description: 👇
 
 Okay, so something was definitely wrong with our calculations.
 We're still trying to get them fixed, but hey, we're getting closer!
@@ -11,9 +11,9 @@ Flag format: jctf{whattheywrote}, lowercase, omit any spaces.
 File attached
 Developed by Cyb3rSw0rd
 
-##File Name : AnnaCircohsLog2.txt
+## File Name : AnnaCircohsLog2.txt
 
-###File Content:
+### File Content: 👇
 
 //--//--//--//--//--//
 Estimated Date: August 16, 1974
@@ -29,7 +29,7 @@ Last time I was here was 9 months ago local space-time, before all of the progra
 //--//--//--//--//--//
 
 
-##Solution:
+## Solution: 👇
 
 This is my first ever writeup so bear with me. 
 
@@ -41,12 +41,16 @@ Found 🔗 [This article] (https://www.history.com/this-day-in-history/the-ramon
 Did some digging/searching on cbgb bar and found out that it opened on December 10, 1973. "9 months before aug 1974" so far details are matching with Challange lure.
 
 Furthermore, the owners name was Hilly Kristal ( Initials :HK), as soon as I saw that I seached "cbgb opening concrete" and boom the third reasult was picture attached below. 
+<br>
 
-<img src="https://raw.githubusercontent.com/anaghpatel/JerseyCTF-III/master/Concrete.jpg">
-As per challange instruction I wraped my flag like jctf{cbgb'73} and that didn't work so I tried jctf{cbgb73} and that worked. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CBGB_%2773_%28Manhattan%2C_New_York%29_P001.jpg/1200px-CBGB_%2773_%28Manhattan%2C_New_York%29_P001.jpg?20171030002227">
+
+<br>
+
+As per challange instruction I wraped my flag like jctf{cbgb'73} and that didn't work so I tried jctf{cbgb73} and that worked. 🎉 
 
 
-#Flag : jctf{cbgb73}
+# Flag 🚩: jctf{cbgb73} ✅
 
-##Total Solves for the challange  : 41
+## Total Solves for the challange  : 41
 
