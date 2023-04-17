@@ -39,7 +39,7 @@ Started by searching quartet on google as I didn't know what that means. Found W
 
 Then, I looked at estimated date and searched "august 16, 1974 rock concert" on google and the first reasult was about Ramones,a punk-rock band,at CBGB bar.
 
-[Found 🔗 This article] (https://www.history.com/this-day-in-history/the-ramones-play-their-first-public-gig-at-cbgbs-in-downtown-manhattan)
+### [Found 🔗 This article] (https://www.history.com/this-day-in-history/the-ramones-play-their-first-public-gig-at-cbgbs-in-downtown-manhattan)
 
 Did some digging/searching on cbgb bar and found out that it opened on December 10, 1973. "9 months before aug 1974" so far details are matching with Challange lure.
 
